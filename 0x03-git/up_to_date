@@ -1,0 +1,15 @@
+git config: used to set the user name and email adress
+
+git add: used to add a file to the working area
+
+git commit: used to record a file in its version history permanently
+
+git status: used to list status and all file ehich is ready to  commited 
+
+git branch (branch name): to create new branches
+
+git checkout (branch name ): to change the cuurent branch 
+
+git push: used to push to git acount 
+
+git pull: to fache bushed file 
